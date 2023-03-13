@@ -1,6 +1,6 @@
-package CommandPattern.Command;
+package Command.Command;
 
-import CommandPattern.Objects.Stereo;
+import Command.Objects.Stereo;
 
 public class StereoOnWithCDCommand implements Command {
     Stereo stereo;

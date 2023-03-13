@@ -1,6 +1,6 @@
-package CommandPattern.Command;
+package Command.Command;
 
-import CommandPattern.Objects.Light;
+import Command.Objects.Light;
 
 public class LightOnCommand implements Command {
     Light light;

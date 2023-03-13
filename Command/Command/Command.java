@@ -1,4 +1,4 @@
-package CommandPattern.Command;
+package Command.Command;
 
 public interface Command {
     void execute();

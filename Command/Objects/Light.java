@@ -1,4 +1,4 @@
-package CommandPattern.Objects;
+package Command.Objects;
 
 public class Light {
 

@@ -1,12 +1,12 @@
-package CommandPattern;
+package Command;
 
-import CommandPattern.Command.LightOffCommand;
-import CommandPattern.Command.LightOnCommand;
-import CommandPattern.Command.StereoOffWithCDCommand;
-import CommandPattern.Command.StereoOnWithCDCommand;
-import CommandPattern.Invoker.RemoteControl;
-import CommandPattern.Objects.Light;
-import CommandPattern.Objects.Stereo;
+import Command.Command.LightOffCommand;
+import Command.Command.LightOnCommand;
+import Command.Command.StereoOffWithCDCommand;
+import Command.Command.StereoOnWithCDCommand;
+import Command.Invoker.RemoteControl;
+import Command.Objects.Light;
+import Command.Objects.Stereo;
 
 public class RemoteLoader {
     // Command Pattren

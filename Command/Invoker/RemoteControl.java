@@ -1,6 +1,7 @@
-package CommandPattern.Invoker;
+package Command.Invoker;
 
-import CommandPattern.Command.*;
+import Command.Command.Command;
+import Command.Command.NoCommand;
 
 public class RemoteControl {
     Command[] onCommands;
